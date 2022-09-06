@@ -15,7 +15,7 @@ For example: overall kickstarter data analysis pointed out that the theater cate
 ### Analysis of Outcomes Based on Launch Date
 
 For this project, as a data analyst the first task was to size the data and get a feel for what is to be worked on and how to proceed with the analysis. Some of the important considerations for the kickstarter data were to confirm the number of columns and rows, and understand how the data was structured, and whether it is readable or needed to be converted in some way. Using the format, sort and filter the data pattern and some broader level assessment was conducted before proceesign with the pivot table analysis. The campaign data through the pivot table analysis was arranged so that for the parent category and years set as filters, the outcomes such as 'successful', 'failed' and 'canceled' for the count of outcome values across the launch date year would display as follows. 
-Outcomes_vs_Launch.png
+
 Looking at the outcomes based on launch date, the projects that started in May, June and Feb were most successful. The same pattern held true looking at all all parent categories, and in looking specifically at the 'theater' category. Failed campaigns for the Theater category were nearly similar in count from May through August. 
 ![This is a chart of outcomes vs launch dates](./Resources/Theater_Outcomes_vs_Launch.png)
 
