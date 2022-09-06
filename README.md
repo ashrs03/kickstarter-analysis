@@ -1,6 +1,9 @@
 # Kickstarting with Excel
-## Overview of Project Louise, an upcoming playwright wants to start a crowdfunding campaign to help fund her play, "Fever".  Louise's play Fever came close to its fundraising goal in very short time. She therefore wanted to know how different campaigns fared in relation to their launch dates and their funding goals. By analyzing the campaign data and visualizing the outcomes based on their launch dates and their funding goals, this project will provide Louise the desired insights for the campaign.These insights will enable Louise to plan her campaign and set it up for success. 
+## Overview of Project 
+
+Louise, an upcoming playwright wants to start a crowdfunding campaign to help fund her play, "Fever".  Louise's play Fever came close to its fundraising goal in very short time. She therefore wanted to know how different campaigns fared in relation to their launch dates and their funding goals. By analyzing the campaign data and visualizing the outcomes based on their launch dates and their funding goals, this project will provide Louise the desired insights for the campaign.These insights will enable Louise to plan her campaign and set it up for success. 
 ### Purpose
+
 The purpose of the data analysis was to gather insights and draw data driven conclusions based on the findings. In analyzing the crowdfunding data there were several data variables to consider, such as the categories and subcategories of the projects, the backers for each project, average donations per campaign, duration for which each project was held, goal amount, pledged amount,country where the campaign was held and the outcomes for the projects. 
 
 The findings through the step by step analysis was meant to give Louise an in-depth understanding on the different campaign performances. This is meant to help in discovery of what worked well, what did not work so well and would would be some ways to invest time and efforts that are more likely to be successful. In some cases the data trends may also help to point out the weak areas to address or improvise on. 
@@ -12,7 +15,7 @@ For example: overall kickstarter data analysis pointed out that the theater cate
 ### Analysis of Outcomes Based on Launch Date
 
 For this project, as a data analyst the first task was to size the data and get a feel for what is to be worked on and how to proceed with the analysis. Some of the important considerations for the kickstarter data were to confirm the number of columns and rows, and understand how the data was structured, and whether it is readable or needed to be converted in some way. Using the format, sort and filter the data pattern and some broader level assessment was conducted before proceesign with the pivot table analysis. The campaign data through the pivot table analysis was arranged so that for the parent category and years set as filters, the outcomes such as 'successful', 'failed' and 'canceled' for the count of outcome values across the launch date year would display as follows. 
-
+Outcomes_vs_Launch.png
 Looking at the outcomes based on launch date, the projects that started in May, June and Feb were most successful. The same pattern held true looking at all all parent categories, and in looking specifically at the 'theater' category. Failed campaigns for the Theater category were nearly similar in count from May through August. 
 ![This is a chart of outcomes vs launch dates](./Resources/Theater_Outcomes_vs_Launch.png)
 
